@@ -1,0 +1,9 @@
+HTML é: uma linguagem de marcação, usada na construção de paginas web.
+
+CSS é: um mecanismo que adiciona estilo a um documento web.
+
+<body> Nesta tag é incluso todo o conteúdo que vai aparecer no site de modo que o navegador reproduza para o usuário </body>
+
+<p> Tag utilizada para incluir parágrafos no arquivo HTML </p>
+
+<a> Marcação para inclusão de sites </a>
